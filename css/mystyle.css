@@ -1,0 +1,16 @@
+@font-face {
+    font-family: minhaFonte;
+    src: url("GeosansLight.ttf");
+}
+
+#header {
+    font-family: minhaFonte;
+}
+
+.max300px{
+   max-width: 300px;
+}
+
+.max400px{
+   max-width: 400px;
+}
